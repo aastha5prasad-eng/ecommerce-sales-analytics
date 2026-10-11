@@ -1,0 +1,14 @@
+# Keep dataset private
+data/
+
+# Python generated files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+myenv/
+.venv/
+
+# Secrets
+.env
